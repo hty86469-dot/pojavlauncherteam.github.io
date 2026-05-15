@@ -1,3 +1,5 @@
+<img width="1536" height="2048" alt="1000001354" src="https://github.com/user-attachments/assets/b76b785c-91dc-45bf-9d9c-5177daf9f4be" />
+<img width="1080" height="1920" alt="1000002000" src="https://github.com/user-attachments/assets/8e6b81a5-9617-4f32-927d-462738279d8d" />
 
 # Welcome to the PojavLauncher Wiki!
 ____
